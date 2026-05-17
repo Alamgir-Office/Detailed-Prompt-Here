@@ -1,0 +1,105 @@
+{
+  "projectName": "Munview Devcon - Modern Real Estate Website",
+  "businessType": "Real Estate Developer & Marketing Agency",
+  "companyName": "Munview Devcon Private Limited",
+  "tagline": "Best Real Estate Deals in Joka, Kolkata",
+  "locationFocus": "Joka, Kolkata | Near Joka Metro Station",
+  "designStyle": "Modern, luxurious, clean, minimalist with premium real estate feel. Use a color palette of deep navy blue (#0A2540), emerald green accents (#00C48C), warm beige/gold (#F5EDE4), white, and dark gray. High-quality hero images, generous whitespace, smooth animations, and elegant typography (Inter or Satoshi for body, Playfair Display or similar for headings).",
+  
+  "responsiveness": {
+    "desktop": "Fully modern website with large hero sections, grid layouts, hover effects, sidebar filters for properties, and sticky navigation.",
+    "mobile": "Native mobile app-like experience: Top header with logo + menu, prominent search/floating action button, and bottom tab navigation (Home, Properties, Services, About, Contact). Use bottom tabs with icons for seamless native feel."
+  },
+
+  "pages": [
+    {
+      "name": "Home",
+      "sections": [
+        {
+          "type": "Hero",
+          "content": "Stunning full-screen hero with high-quality image of Dreamland project or Joka skyline. Overlay text: 'Discover Premium Plots & Homes in Joka, Kolkata' with CTA buttons 'Browse Properties' and 'Get Expert Advice'. Subheadline: 'Starting ₹1,00,000 per Katha | Possession Dec 2021 onwards'.",
+          "image": "Use existing hero/background images from the website if available; otherwise high-res real estate imagery of green plots, modern homes near metro."
+        },
+        {
+          "type": "Featured Properties",
+          "layout": "Modern grid cards with image, price, location, possession date, 'For Sale' badge, and 'View Details' button. Highlight Dream Land prominently."
+        },
+        {
+          "type": "About Company",
+          "content": "Munview Devcon Private Limited: Your Trusted Real Estate Partner in Joka, Kolkata. Include full company description from the site."
+        },
+        {
+          "type": "Why Choose Us",
+          "cards": ["Affordability", "Reliability", "Customer-Centric"]
+        },
+        {
+          "type": "Testimonials",
+          "layout": "Carousel or grid with quotes from Amit Sharma, Priya Mehta, Rohit Verma, Ripan Deshmukh, Sanjay Rao, Arjun Joshi."
+        },
+        {
+          "type": "CTA Banner",
+          "text": "Ready to Invest in Joka? Let's Build Your Future."
+        }
+      ]
+    },
+    {
+      "name": "Properties",
+      "url": "property.html equivalent",
+      "layout": "Advanced property listing page with filters (Price, Type, Location, Possession), search bar, map integration placeholder, and detailed modern cards. Each property card uses images from the original site.",
+      "properties": [
+        {
+          "name": "Dream Land",
+          "type": "Residential Township",
+          "price": "₹1,00,000/- per katha onwards",
+          "location": "Joka Beside Swaminarayan Mandir / Gotalahat Road, Amtala, 24 Pgs.(S) W.B.",
+          "possession": "Dec 2021",
+          "status": "For Sale",
+          "description": "Thoughtfully planned residential township... (full description from site)",
+          "images": "Use all property images and links from the original website (property.html and home)"
+        }
+      ]
+    },
+    {
+      "name": "About Us",
+      "content": "Full company profile including Founder Gaurav Rai details, vision, mission, and experience."
+    },
+    {
+      "name": "Services",
+      "items": ["Property Buying & Selling", "Plot/Land Development", "Residential & Commercial Projects", "Investment Advisory", "Marketing & Valuation"]
+    },
+    {
+      "name": "Contact",
+      "keepExactDetails": true,
+      "address": "74 Pallymongal colony D H Road Thakurpukur kol-700063",
+      "email": "munviewdevconpvtltd@gmail.com",
+      "phone": "+91 91470 94332 / 9147094332",
+      "cin": "U68100WB2025PTC277840",
+      "form": "Modern contact form + Google Maps embed placeholder"
+    }
+  ],
+
+  "navigation": {
+    "desktop": "Sticky top nav with logo, links (Home, Properties, About, Services, Contact), phone icon, and 'Book Now' button.",
+    "mobile": {
+      "header": "Logo + Hamburger menu or search",
+      "bottomTabs": [
+        {"name": "Home", "icon": "home"},
+        {"name": "Properties", "icon": "building"},
+        {"name": "Services", "icon": "list"},
+        {"name": "About", "icon": "user"},
+        {"name": "Contact", "icon": "phone"}
+      ]
+    }
+  },
+
+  "globalRequirements": {
+    "keepContactsSame": true,
+    "useOriginalImages": "Import and use ALL existing image links and assets from https://www.munviewdevcon.com/ and subpages (especially property images, logos, banners).",
+    "realEstateFocus": "Emphasize property listings with high-quality photos, key specs (price/katha, size, location, amenities), virtual tour placeholders, and trust signals (RERA mention if available, testimonials).",
+    "performance": "Fast loading, optimized images, smooth scroll animations, dark/light mode toggle optional.",
+    "ctaButtons": "Prominent 'Enquire Now', 'Schedule Site Visit', 'Download Brochure' buttons with WhatsApp integration.",
+    "footer": "Company info, quick links, copyright, social icons (add if needed)."
+  },
+
+  "toneAndFeel": "Professional yet approachable, trustworthy, premium real estate vibe. Focus on transparency, affordability, and location advantages near Joka Metro."
+}
