@@ -1,0 +1,291 @@
+{
+  "project": {
+    "name": "WhatsBot AI",
+    "type": "Responsive SaaS Landing Page",
+    "stack": [
+      "React",
+      "TailwindCSS",
+      "Framer Motion"
+    ],
+    "theme": {
+      "mode": "dark",
+      "primaryColor": "#25D366",
+      "background": "#0B0F19",
+      "cardBackground": "#111827",
+      "textPrimary": "#FFFFFF",
+      "textSecondary": "#9CA3AF",
+      "borderColor": "rgba(255,255,255,0.08)"
+    }
+  },
+
+  "layout": {
+    "maxWidth": "1280px",
+    "responsive": true,
+    "mobileFirst": true,
+    "spacing": {
+      "sectionPadding": "100px",
+      "cardGap": "24px"
+    }
+  },
+
+  "navbar": {
+    "sticky": true,
+    "blurBackground": true,
+    "logo": {
+      "text": "WhatsBot AI",
+      "icon": "message-circle"
+    },
+    "links": [
+      "Features",
+      "Demo",
+      "Pricing",
+      "FAQ"
+    ],
+    "ctaButton": {
+      "text": "Book Free Demo",
+      "link": "#contact"
+    }
+  },
+
+  "heroSection": {
+    "height": "90vh",
+    "alignment": "center",
+    "headline": "AI WhatsApp Assistant For Businesses",
+    "subheadline": "Automatically reply to customers, capture leads, and provide 24/7 support using AI-powered WhatsApp automation.",
+    "buttons": [
+      {
+        "text": "Watch Demo",
+        "style": "primary"
+      },
+      {
+        "text": "Start Free Trial",
+        "style": "secondary"
+      }
+    ],
+    "rightSide": {
+      "type": "glassmorphism-dashboard-preview",
+      "elements": [
+        "Live chat preview",
+        "AI auto reply",
+        "Lead notification",
+        "Online status"
+      ]
+    },
+    "backgroundEffects": {
+      "gradientBlur": true,
+      "animatedGrid": true,
+      "floatingGlow": true
+    }
+  },
+
+  "socialProof": {
+    "title": "Built For Modern Businesses",
+    "items": [
+      "Restaurants",
+      "Real Estate",
+      "Clinics",
+      "Ecommerce",
+      "Agencies",
+      "Coaching Centers"
+    ]
+  },
+
+  "featuresSection": {
+    "title": "Everything You Need To Automate WhatsApp",
+    "layout": "responsive-grid",
+    "cards": [
+      {
+        "icon": "bot",
+        "title": "AI Auto Replies",
+        "description": "Automatically respond to customer messages using AI."
+      },
+      {
+        "icon": "message-square",
+        "title": "WhatsApp Integration",
+        "description": "Connect instantly using QR code login."
+      },
+      {
+        "icon": "clock",
+        "title": "24/7 Support",
+        "description": "Never miss a customer message again."
+      },
+      {
+        "icon": "users",
+        "title": "Lead Management",
+        "description": "Capture customer details and organize conversations."
+      },
+      {
+        "icon": "settings",
+        "title": "Custom AI Prompts",
+        "description": "Customize tone, language, and business behavior."
+      },
+      {
+        "icon": "workflow",
+        "title": "Automation Workflows",
+        "description": "Connect with Google Sheets, CRM, APIs, and more."
+      }
+    ]
+  },
+
+  "howItWorks": {
+    "title": "Setup In Minutes",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Install The Software",
+        "description": "Download and open the desktop application."
+      },
+      {
+        "step": "02",
+        "title": "Scan WhatsApp QR",
+        "description": "Securely connect your WhatsApp account."
+      },
+      {
+        "step": "03",
+        "title": "Configure AI",
+        "description": "Customize replies and automation behavior."
+      },
+      {
+        "step": "04",
+        "title": "Start Automating",
+        "description": "AI instantly handles customer conversations."
+      }
+    ]
+  },
+
+  "demoSection": {
+    "title": "See WhatsBot AI In Action",
+    "videoEmbed": {
+      "type": "youtube",
+      "placeholderThumbnail": true
+    },
+    "chatPreview": {
+      "messages": [
+        {
+          "from": "Customer",
+          "message": "Hi, what are your pricing plans?"
+        },
+        {
+          "from": "AI",
+          "message": "Hello 👋 Our plans start from $19/month. Would you like a quick demo?"
+        }
+      ]
+    }
+  },
+
+  "benefitsSection": {
+    "title": "Why Businesses Love WhatsBot AI",
+    "items": [
+      "Reply Faster",
+      "Save Time",
+      "Increase Leads",
+      "Automate Support",
+      "Reduce Missed Customers",
+      "Improve Customer Experience"
+    ]
+  },
+
+  "pricingSection": {
+    "title": "Simple Pricing",
+    "cards": [
+      {
+        "name": "Starter",
+        "price": "$19",
+        "period": "/month",
+        "features": [
+          "1 WhatsApp Account",
+          "AI Auto Replies",
+          "Basic Automation",
+          "Email Support"
+        ],
+        "highlight": false
+      },
+      {
+        "name": "Pro",
+        "price": "$49",
+        "period": "/month",
+        "features": [
+          "Multiple Automations",
+          "Advanced AI",
+          "CRM Integration",
+          "Priority Support"
+        ],
+        "highlight": true
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Does it work on Windows?",
+        "answer": "Yes, the software is built for Windows desktop systems."
+      },
+      {
+        "question": "Do I need technical knowledge?",
+        "answer": "No, setup only takes a few minutes."
+      },
+      {
+        "question": "Can I customize AI replies?",
+        "answer": "Yes, you can fully customize the AI behavior and tone."
+      },
+      {
+        "question": "Does it support multiple businesses?",
+        "answer": "Yes, advanced plans support multiple workflows."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "id": "contact",
+    "title": "Book A Free Demo",
+    "description": "See how WhatsBot AI can automate your business conversations.",
+    "formFields": [
+      "Name",
+      "Email",
+      "Business Type",
+      "WhatsApp Number"
+    ],
+    "ctaButton": "Request Demo"
+  },
+
+  "footer": {
+    "logo": "WhatsBot AI",
+    "links": [
+      "Privacy Policy",
+      "Terms",
+      "Contact"
+    ],
+    "copyright": "© 2026 WhatsBot AI. All rights reserved."
+  },
+
+  "animations": {
+    "library": "Framer Motion",
+    "effects": [
+      "fade-up",
+      "stagger-cards",
+      "hover-scale",
+      "gradient-animation",
+      "scroll-reveal"
+    ]
+  },
+
+  "responsiveBreakpoints": {
+    "mobile": "320px",
+    "tablet": "768px",
+    "desktop": "1280px"
+  },
+
+  "seo": {
+    "title": "WhatsBot AI - AI WhatsApp Automation For Businesses",
+    "description": "Automate WhatsApp replies, capture leads, and provide AI customer support using WhatsBot AI.",
+    "keywords": [
+      "WhatsApp AI",
+      "WhatsApp Automation",
+      "AI Chatbot",
+      "Business Automation",
+      "WhatsApp Bot"
+    ]
+  }
+}
