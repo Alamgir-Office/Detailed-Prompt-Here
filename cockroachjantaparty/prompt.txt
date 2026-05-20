@@ -1,0 +1,63 @@
+{
+  "projectName": "Cockroach Janta Party - Official Website Redesign",
+  "goal": "Completely rebuild and professionally enhance cockroachjantaparty.org while keeping ALL original content, text, contact details, manifesto, and images exactly the same. Focus only on modern, responsive, high-quality UI/UX design with smooth animations.",
+  "brandIdentity": {
+    "name": "Cockroach Janta Party (CJP)",
+    "tagline": "Voice of the Lazy & Unemployed",
+    "logo": "Use the exact same logo and cockroach-themed images from the current website https://cockroachjantaparty.org",
+    "colors": ["Dark background (#111111 or deep black)", "Neon green accents (#00ff41 or similar cockroach vibe)", "White and off-white text", "Bold satirical tone"],
+    "tone": "Satirical, rebellious, youthful, bold, humorous yet professional"
+  },
+  "techRequirements": {
+    "framework": "Modern responsive framework (React/Next.js or equivalent)",
+    "responsiveness": "100% mobile-first, tablet, and desktop optimized",
+    "animations": "Smooth scroll animations, hover effects, fade-ins, micro-interactions, and subtle cockroach-themed transitions"
+  },
+  "layout": {
+    "desktop": {
+      "header": "Fixed top navigation bar with logo on left, menu links (Home, Manifesto, Join, Contact), and social media icons prominently displayed on the right for easy following.",
+      "navigation": "Clean top nav with hover animations"
+    },
+    "mobile": {
+      "header": "Fixed top header with logo and menu icon",
+      "bottomNav": "Native app-style bottom tab bar with icons: Home, Manifesto, Join the Party, Connect"
+    }
+  },
+  "pagesAndSections": [
+    {
+      "section": "Hero",
+      "content": "Keep exact same headline, subheadline, and visuals from original site",
+      "add": "Eye-catching entrance animation with cockroach motif, strong CTA button 'Join the Party'"
+    },
+    {
+      "section": "Stats",
+      "newFeature": "Add a prominent animated counter showing 'XX,XXX Cockroaches Have Already Joined' (make it dynamic and impressive)"
+    },
+    {
+      "section": "Vision & Mission",
+      "requirement": "Keep original text unchanged"
+    },
+    {
+      "section": "The Five Demands / Manifesto",
+      "requirement": "Keep all 5 points exactly the same with better visual hierarchy and card-style layout with animations"
+    },
+    {
+      "section": "Eligibility to Join",
+      "requirement": "Keep original 4 requirements unchanged"
+    },
+    {
+      "section": "Join / Contact",
+      "requirement": "Keep the exact contact form and details: contact@cockroachjantaparty.org, Press contact@cockroachjantaparty.org, Founder: Abhijeet Dipke. Improve form UX."
+    }
+  ],
+  "featuresToAdd": [
+    "Live member counter with animation",
+    "Social media icons (Instagram, X/Twitter, etc.) prominently in header and footer with 'Follow the Swarm' label",
+    "Smooth scrolling and section transitions",
+    "Mobile bottom navigation mimicking native apps",
+    "Professional yet rebellious dark theme with neon accents",
+    "Fast loading performance",
+    "SEO-friendly structure"
+  ],
+  "instructions": "Do NOT change any text, contact information, manifesto points, or images. Use the exact assets from https://cockroachjantaparty.org. Only enhance design, layout, responsiveness, animations, and user experience. Make it look highly professional, modern, and engaging while retaining the satirical cockroach spirit."
+}
