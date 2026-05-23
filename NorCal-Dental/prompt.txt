@@ -1,0 +1,240 @@
+{
+  "project_type": "Premium Responsive Dental Clinic Website Redesign",
+  "brand_name": "NorCal Dental Group",
+  "website": "https://mynorcaldental.com",
+  "style": {
+    "theme": "Luxury modern healthcare",
+    "design_language": "Minimal, premium, calming, trustworthy",
+    "primary_colors": [
+      "#0F4C81",
+      "#1F7A8C",
+      "#F7F9FB",
+      "#FFFFFF"
+    ],
+    "accent_colors": [
+      "#2EC4B6",
+      "#E9F5F5"
+    ],
+    "typography": {
+      "heading": "Modern elegant sans-serif",
+      "body": "Readable clean healthcare typography"
+    },
+    "ui_style": [
+      "glassmorphism light",
+      "soft shadows",
+      "rounded cards",
+      "smooth scroll animations",
+      "premium spacing",
+      "modern responsive layout"
+    ]
+  },
+  "goal": {
+    "primary": "Increase appointment bookings and trust conversion",
+    "secondary": [
+      "Improve mobile conversion",
+      "Improve credibility",
+      "Modernize visual identity",
+      "Increase calls and consultations",
+      "Improve patient trust"
+    ]
+  },
+  "target_audience": [
+    "Families",
+    "Dental implant patients",
+    "Emergency dental patients",
+    "Special needs patients",
+    "Patients with dental anxiety",
+    "Cosmetic dentistry patients"
+  ],
+  "technical_requirements": {
+    "framework": "React + Tailwind CSS",
+    "mobile_first": true,
+    "fully_responsive": true,
+    "seo_optimized": true,
+    "fast_loading": true,
+    "accessible_design": true,
+    "sticky_header": true,
+    "smooth_animations": true,
+    "lazy_loading": true
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "content": {
+        "headline": "Compassionate Dentistry for Every Smile",
+        "subheadline": "Modern dental care in Fremont & Hayward focused on comfort, implants, restorative care, and special needs dentistry.",
+        "cta_primary": "Book Appointment",
+        "cta_secondary": "Call Now",
+        "phone": "(510) 244-1335"
+      },
+      "design": {
+        "background_video": true,
+        "overlay_gradient": true,
+        "floating_cards": true,
+        "before_after_smile_showcase": true
+      }
+    },
+    {
+      "type": "trust_section",
+      "items": [
+        "Thousands of happy patients",
+        "Sedation dentistry available",
+        "Special needs dentistry",
+        "Advanced implant technology",
+        "Judgment-free environment",
+        "Experienced specialists"
+      ]
+    },
+    {
+      "type": "services_grid",
+      "title": "Our Dental Services",
+      "services": [
+        "Dental Implants",
+        "Restorative Dentistry",
+        "Sedation Dentistry",
+        "Dental Crowns",
+        "Emergency Dentistry",
+        "Cosmetic Dentistry",
+        "Preventive Care",
+        "Special Needs Dentistry",
+        "Dentures",
+        "Dental Bridges"
+      ],
+      "design": {
+        "modern_cards": true,
+        "hover_effects": true,
+        "service_icons": true
+      }
+    },
+    {
+      "type": "locations",
+      "title": "Serving Fremont & Hayward",
+      "locations": [
+        {
+          "name": "Fremont Office",
+          "address": "36527 Fremont Blvd, Fremont, CA 94536",
+          "phone": "(510) 358-2166"
+        },
+        {
+          "name": "Hayward Office",
+          "address": "100 W Jackson St, Hayward, CA 94544",
+          "phone": "(510) 244-1335"
+        }
+      ],
+      "design": {
+        "google_maps_embed": true,
+        "location_cards": true
+      }
+    },
+    {
+      "type": "why_choose_us",
+      "title": "Why Choose NorCal Dental Group?",
+      "points": [
+        "Highly qualified specialists",
+        "Comfort-first patient care",
+        "Advanced dental technology",
+        "Sedation options available",
+        "Specialized implant solutions",
+        "Compassionate support for anxious patients"
+      ]
+    },
+    {
+      "type": "doctor_section",
+      "title": "Meet Our Team",
+      "doctors": [
+        {
+          "name": "Dr. Rajvir Bhogal",
+          "role": "Dental Specialist",
+          "bio": "Holistic dental care focused on precision, compassion, and advanced restorative dentistry."
+        },
+        {
+          "name": "Dr. Sonia Dhillon",
+          "role": "Medical Director"
+        }
+      ]
+    },
+    {
+      "type": "special_needs_highlight",
+      "title": "Special Needs Dentistry",
+      "content": "Dedicated compassionate dental care for children and adults with special healthcare needs."
+    },
+    {
+      "type": "implant_showcase",
+      "title": "Advanced Zirconia Dental Implants",
+      "features": [
+        "Natural appearance",
+        "Long-lasting solution",
+        "Metal-free options",
+        "3D guided surgery",
+        "Full-arch restorations"
+      ]
+    },
+    {
+      "type": "financing_section",
+      "title": "Flexible Financing Options",
+      "providers": [
+        "Cherry Financing",
+        "Sunbit Financing",
+        "Care Credit",
+        "Lending Club"
+      ]
+    },
+    {
+      "type": "testimonial_slider",
+      "title": "Patient Success Stories",
+      "style": "modern video testimonials"
+    },
+    {
+      "type": "faq",
+      "questions": [
+        "Do you accept patients with dental anxiety?",
+        "Do you offer sedation dentistry?",
+        "What are zirconia implants?",
+        "Do you provide special needs dentistry?",
+        "How long do dental implants last?",
+        "Can I book online?"
+      ]
+    },
+    {
+      "type": "final_cta",
+      "headline": "Your Best Smile Awaits",
+      "subheadline": "Book your consultation today and experience compassionate modern dentistry.",
+      "cta": "Schedule Appointment"
+    },
+    {
+      "type": "footer",
+      "content": {
+        "email": "mynorcaldental@gmail.com",
+        "hours": {
+          "Monday-Friday": "9:00AM - 6:00PM",
+          "Saturday": "By Appointment Only",
+          "Sunday": "Closed"
+        }
+      }
+    }
+  ],
+  "media_requirements": {
+    "reuse_existing_images": true,
+    "reuse_existing_videos": true,
+    "add_modern_stock_dental_visuals": true,
+    "show_happy_patients": true,
+    "show_modern_clinic_environment": true
+  },
+  "conversion_features": [
+    "Sticky mobile call button",
+    "Sticky appointment button",
+    "WhatsApp CTA",
+    "Quick appointment form",
+    "Emergency dental CTA",
+    "Trust badges",
+    "Google reviews section"
+  ],
+  "seo_keywords": [
+    "Dentist Fremont CA",
+    "Dentist Hayward CA",
+    "Dental Implants Fremont",
+    "Emergency Dentist Hayward",
+    "Special Needs Dentistry California",
+    "Sedation Dentistry Fremont"
+  ]
+}
