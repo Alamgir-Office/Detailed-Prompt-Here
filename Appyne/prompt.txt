@@ -1,0 +1,707 @@
+MASTER PROMPT — Build the Complete Appyne AI Website
+
+Objective
+
+Your task is to design and develop a complete, production-ready website for Appyne, a modern AI Automation & Software Development company.
+
+This is not a template website.
+
+The goal is to create a premium SaaS-quality experience that looks like a world-class technology company while maximizing conversions.
+
+The website must be production-ready, scalable, modular, maintainable, SEO-friendly, highly performant, accessible, and visually impressive.
+
+Do not generate placeholder-quality UI. Every section should feel polished and ready for deployment.
+
+---
+
+Development Mindset
+
+Continue improving the website until it reaches production quality.
+
+Do not stop after completing one section.
+
+After each implementation:
+
+- Review the UI
+- Improve UX
+- Improve accessibility
+- Improve animations
+- Improve responsiveness
+- Optimize performance
+- Remove duplicated code
+- Refactor components
+- Improve spacing
+- Improve typography
+- Improve mobile experience
+- Optimize SEO
+- Improve loading speed
+
+Continue iterating until the entire website feels comparable to companies like:
+
+- OpenAI
+- Stripe
+- Vercel
+- Linear
+- Framer
+- Notion
+- Figma
+
+---
+
+Brand
+
+Company Name
+
+Appyne
+
+Tagline
+
+Automate. Build. Scale.
+
+Mission
+
+Help businesses automate operations, improve customer experience, increase revenue, and save time using AI, automation, and custom software.
+
+---
+
+Services
+
+Create dedicated sections and landing pages for:
+
+- AI Agents
+- AI Chatbots
+- WhatsApp Automation
+- Business Automation
+- CRM Development
+- ERP Development
+- HRMS
+- Custom Software
+- SaaS Development
+- Mobile App Development
+- Website Development
+- API Development
+- AI Integrations
+- Cloud Solutions
+- Workflow Automation
+- Dashboard Development
+- Internal Business Tools
+- AI Consulting
+
+---
+
+Design Philosophy
+
+The website should feel:
+
+Modern
+
+Premium
+
+Elegant
+
+Minimal
+
+Luxury
+
+Professional
+
+Trustworthy
+
+Fast
+
+AI-first
+
+Soft UI
+
+Never use cluttered layouts.
+
+Use generous whitespace.
+
+Every section should breathe.
+
+The design should feel expensive.
+
+---
+
+Theme
+
+Create a clean soft modern SaaS design.
+
+Visual style:
+
+- Rounded corners
+- Large spacing
+- Soft shadows
+- Glassmorphism where appropriate
+- Premium gradients
+- Smooth borders
+- Modern typography
+- Large headlines
+- Elegant cards
+- Animated backgrounds
+- Interactive hover effects
+
+The website should immediately communicate innovation and trust.
+
+---
+
+Color Palette
+
+Primary
+
+Deep Blue
+
+Accent
+
+Cyan
+
+Secondary
+
+Purple
+
+Background
+
+White
+
+Dark Background Sections
+
+Slate / Navy
+
+Success
+
+Green
+
+Warning
+
+Amber
+
+Use subtle gradients throughout.
+
+Never oversaturate colors.
+
+---
+
+Typography
+
+Use a premium font such as:
+
+Inter
+
+or
+
+Plus Jakarta Sans
+
+Large headings
+
+Readable body text
+
+Consistent spacing
+
+Excellent hierarchy
+
+---
+
+Animations
+
+Use Framer Motion throughout.
+
+Implement:
+
+- Fade animations
+- Slide animations
+- Scale animations
+- Reveal on scroll
+- Stagger animations
+- Hover animations
+- Button ripple effects
+- Floating backgrounds
+- Mouse interaction
+- Gradient movement
+- Parallax
+- Number counters
+- Marquee logo animations
+- Smooth page transitions
+- Smooth scrolling
+
+Animations must feel smooth and premium.
+
+Never overuse them.
+
+Performance must remain excellent.
+
+---
+
+Responsive Design
+
+The website must be mobile-first.
+
+Every page should work perfectly on:
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+Ultra-wide displays
+
+---
+
+Desktop Experience
+
+Desktop should look like a premium SaaS website.
+
+Use:
+
+- Sticky Header
+- Mega Navigation
+- Large Hero
+- Multi-column layouts
+- Beautiful spacing
+- Hover interactions
+- Large illustrations
+- Rich animations
+
+---
+
+Mobile Experience
+
+The mobile website should feel like a native mobile application.
+
+Requirements:
+
+Sticky Header
+
+Bottom Navigation Bar
+
+Large touch targets
+
+Native-style transitions
+
+Rounded cards
+
+Swipe-friendly layouts
+
+Responsive grids
+
+Floating Action Button
+
+Smooth scrolling
+
+Gesture-friendly spacing
+
+Large readable typography
+
+Comfortable thumb reach
+
+Fast loading
+
+No horizontal scrolling
+
+Every page should feel like using a premium mobile app instead of a traditional website.
+
+---
+
+Website Structure
+
+Home
+
+Services
+
+Solutions
+
+Industries
+
+Portfolio
+
+Case Studies
+
+Pricing
+
+About
+
+Blog
+
+FAQs
+
+Contact
+
+Book Consultation
+
+Privacy Policy
+
+Terms
+
+404 Page
+
+---
+
+Home Page
+
+Include:
+
+Premium Hero
+
+Trusted Companies
+
+Why Appyne
+
+Services Grid
+
+Features
+
+Business Benefits
+
+Industries
+
+Portfolio Preview
+
+Case Studies
+
+Testimonials
+
+Process Timeline
+
+Pricing Preview
+
+FAQ
+
+CTA
+
+Newsletter
+
+Footer
+
+---
+
+Services Page
+
+Create individual sections for every service.
+
+Each section should include:
+
+Overview
+
+Benefits
+
+Features
+
+Process
+
+Technologies
+
+Use Cases
+
+Call To Action
+
+---
+
+Portfolio
+
+Beautiful portfolio cards
+
+Filtering
+
+Animations
+
+Project Details
+
+Technology Stack
+
+Business Results
+
+---
+
+Case Studies
+
+Problem
+
+Solution
+
+Process
+
+Result
+
+Metrics
+
+Testimonials
+
+---
+
+Pricing
+
+Starter
+
+Professional
+
+Business
+
+Enterprise
+
+Custom Quote
+
+---
+
+Contact
+
+Contact Form
+
+WhatsApp Button
+
+Email
+
+Phone
+
+Map
+
+Consultation Booking
+
+---
+
+Components
+
+Develop reusable components.
+
+Examples:
+
+Navbar
+
+Footer
+
+Hero
+
+Buttons
+
+Cards
+
+Pricing Cards
+
+Service Cards
+
+Feature Cards
+
+Testimonials
+
+FAQ Accordion
+
+Blog Cards
+
+Timeline
+
+Statistics
+
+CTA Banner
+
+Newsletter
+
+Contact Form
+
+Modal
+
+Drawer
+
+Bottom Navigation
+
+Breadcrumb
+
+Pagination
+
+Search
+
+Loading Skeleton
+
+Empty States
+
+Error States
+
+---
+
+Technical Stack
+
+React
+
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+shadcn/ui
+
+Framer Motion
+
+React Router
+
+TanStack Query
+
+React Hook Form
+
+Zod
+
+Lucide Icons
+
+Use clean architecture.
+
+Create reusable components.
+
+Follow best practices.
+
+Avoid duplicated code.
+
+---
+
+Performance
+
+Optimize everything.
+
+Lazy loading
+
+Code splitting
+
+Image optimization
+
+Responsive images
+
+Tree shaking
+
+Fast rendering
+
+Excellent Lighthouse score
+
+---
+
+SEO
+
+Implement:
+
+Meta Tags
+
+Dynamic Titles
+
+Open Graph
+
+Twitter Cards
+
+Canonical URLs
+
+Robots.txt
+
+Sitemap
+
+Schema.org Structured Data
+
+Breadcrumb Schema
+
+Organization Schema
+
+Service Schema
+
+FAQ Schema
+
+Blog Schema
+
+---
+
+Accessibility
+
+WCAG friendly
+
+Keyboard navigation
+
+Screen reader support
+
+ARIA labels
+
+Color contrast
+
+Focus states
+
+Semantic HTML
+
+---
+
+Security
+
+Validate forms
+
+Sanitize inputs
+
+Prevent common vulnerabilities
+
+Follow secure coding practices
+
+---
+
+Content
+
+Write persuasive marketing copy throughout the website.
+
+Focus on solving business problems.
+
+Avoid generic filler text.
+
+Every section should explain value clearly and encourage users to book a consultation.
+
+---
+
+Conversion Optimization
+
+Add:
+
+Sticky CTA
+
+WhatsApp Chat
+
+Book Consultation buttons
+
+Lead Capture Forms
+
+ROI Calculator
+
+Interactive Quote Generator
+
+AI Consultation Widget
+
+Testimonials
+
+Trust Badges
+
+Client Logos
+
+Statistics
+
+Social Proof
+
+---
+
+Code Quality
+
+Use feature-based architecture.
+
+Strong TypeScript typing.
+
+Reusable hooks.
+
+Reusable utilities.
+
+Consistent naming conventions.
+
+Reusable layout system.
+
+Clean folder structure.
+
+Maintainable code.
+
+Scalable architecture.
+
+---
+
+Final Goal
+
+The finished website should look and feel like a premium SaaS product from a leading AI company.
+
+It should be visually stunning, exceptionally fast, mobile-first, conversion-focused, SEO-optimized, accessible, and ready for production deployment.
+
+Continue refining every page until the quality is comparable to world-class technology companies. Improve UI, UX, responsiveness, animations, accessibility, performance, SEO, and code quality throughout the development process until no major improvements remain.
