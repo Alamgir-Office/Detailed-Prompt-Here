@@ -125,15 +125,18 @@ The design should feel expensive.
 
 Theme
 
-Create a clean soft modern SaaS design.
+Create a clean soft modern SaaS design with a white-first aesthetic.
 
 Visual style:
 
+- Soft white and pure white backgrounds as the base
+- Subtle use of deep blue (from logo) for primary elements
+- Minimal use of orange (from logo) for highlights and CTAs
 - Rounded corners
 - Large spacing
 - Soft shadows
 - Glassmorphism where appropriate
-- Premium gradients
+- Premium gradients (white → soft blue → subtle orange accents)
 - Smooth borders
 - Modern typography
 - Large headlines
@@ -145,27 +148,62 @@ The website should immediately communicate innovation and trust.
 
 ---
 
+Theme System (Light & Dark Mode)
+
+Implement a full theme switching system.
+
+Requirements:
+
+- Default theme: Light (white / soft white base)
+- Dark theme: Deep navy / dark blue base with soft contrast
+- Toggle switch available in header and mobile navigation
+- Persist theme using local storage
+- Smooth animated transitions between themes
+- Ensure all components support both themes
+- Maintain accessibility and contrast in both modes
+- Avoid pure black; use deep blue tones for dark mode
+
+---
+
+Multi-View / Multi-Website Structure
+
+Design the platform so it can support multiple views or sub-sites.
+
+Requirements:
+
+- Separate layouts for:
+  - Main Website
+  - Service Landing Pages
+  - Blog
+  - Dashboard-style pages (future-ready)
+- Use modular routing structure
+- Allow scalable expansion into multiple websites or product views
+- Maintain consistent design system across all views
+- Shared components across all sections
+
+---
+
 Color Palette
 
 Primary
 
-Deep Blue
+Deep Blue (from logo)
 
 Accent
 
-Cyan
+Soft Orange (minimal usage for highlights and CTAs)
 
 Secondary
 
-Purple
+Soft Blue / Cyan tones
 
 Background
 
-White
+White / Soft White (primary base)
 
 Dark Background Sections
 
-Slate / Navy
+Deep Navy / Dark Blue
 
 Success
 
@@ -178,6 +216,8 @@ Amber
 Use subtle gradients throughout.
 
 Never oversaturate colors.
+
+Keep the overall feel light, soft, and premium.
 
 ---
 
